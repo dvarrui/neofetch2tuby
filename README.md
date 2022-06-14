@@ -20,8 +20,14 @@ Vamos a:
     1. Dentro de la carpeta del proyecto.
     2. `bundle install`
 
+# Uso 
+
+Ejecutar el script `bin/neo2ruby`.
+
 # Histórico
 
 **Junio 2022**
 * Comienzo del proyecto.
 * La carpeta [versions](versions) tiene las primeras versiones del script.
+* Se crea este repositorio.
+
