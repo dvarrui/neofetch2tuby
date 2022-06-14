@@ -27,6 +27,7 @@ dns_ok = system("host www.nba.com > /dev/null")
 # Mostrar los datos por pantalla
 
 puts "[*] Executing...       ".white + appname.light_cyan
+system("cat lib/neofetch2ruby/banner.txt")
 
 sleep sleep_time
 print "[+] IP y máscara     : ".white
